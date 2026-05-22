@@ -137,6 +137,10 @@ ________________________________________
 
 Data Cleaning And TransFormation: ![Image1](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Data%20Cleaning%20And%20Transformation%20Of%20ElectroHub%20Sales%20Analysis%20.png)
 Data Modelling: ![Image2](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Data%20Modelling%20OF%20ElectroHub%20Sales%20Analysis%20.png)
+Overview : ![Image3](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/DashBoard%20Of%20Electrohub%20Sales%20Analysis%20.png)
+Overview : ![Image4](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/DashBoard%20Of%20Electrohub%20Sales%20Analysis1%20.png)
+Overview : ![Image5](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/DashBoard%20Of%20Electrohub%20Sales%20Analysis2%20.png)
+Overview : ![Image6](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/DashBoard%20Of%20Electrohub%20Sales%20Analysis3%20.png)
 
 ________________________________________
 ## 🔍 Key Insights
