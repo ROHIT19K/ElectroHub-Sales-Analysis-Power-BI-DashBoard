@@ -144,6 +144,10 @@ Overview : ![Image4](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power
 Overview : ![Image5](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/DashBoard%20Of%20Electrohub%20Sales%20Analysis2%20.png)
 Overview : ![Image6](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/DashBoard%20Of%20Electrohub%20Sales%20Analysis3%20.png)
 
+## Power BI Service 
+
+Published Report : ![Image1](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Power%20BI%20Service%20Review.png)
+
 ________________________________________
 ## 🔍 Key Insights
 
