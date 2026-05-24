@@ -126,8 +126,6 @@ Developed interactive dashboards with:
 
 •	Dynamic KPI cards
 
-•	Drill-through functionality
-
 •	Product-level analysis
 
 •	Time-series trend analysis
