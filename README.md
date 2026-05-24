@@ -1,7 +1,7 @@
 
 # 📊  ElectroHub Sales Analysis 
 
-DashBoard Link : https://app.powerbi.com/groups/be62dd88-ea43-4a7f-97fd-55aaaeee4e87/reports/17693af7-1d76-437d-8fe9-75232810e38d/45f44021e7a75d369ac2?experience=power-bi
+Live DashBoard Link : https://app.powerbi.com/groups/be62dd88-ea43-4a7f-97fd-55aaaeee4e87/reports/17693af7-1d76-437d-8fe9-75232810e38d/45f44021e7a75d369ac2?experience=power-bi
 ________________________________________
 ## 📌 Project Overview
 
