@@ -151,7 +151,16 @@ ________________________________________
 
 📌 Sales Insights
 
-•	Identified Top And Bottom 5 Products By Their Sales Profit And Quantity Sales And AFter this We Will Make Our Business Decision For Increasing Our Sales With Respect to Bottom Products.
+• Identified Top And Bottom 5 Products By Their Sales Profit And Quantity Sales 
+    
+    Top 5 Products By Sales          Top 5 Product By Profit          Top 5 Product By Quantity
+
+    1. Apple iPhone 14 - 21.4M        Apple iPhone 14 - 21.4M         Apple iPhone 14 -281 
+    2. Apple MacBook Air - 19.6M      Apple MacBook Air - 1.96M       RayMond Suit -274    
+    3. Sony Bravia 55" TV - 19.4M     Sony Bravia 55" TV - 1.94M      Fossil SmartWatch -269
+    4. Samsung Galaxy S21 - 15.3M     Samsung Galaxy S21 - 1.53M      Zara Casual Shirt - 269         
+    5. HP Pavilion Laptop - 14.4M     HP Pavilion Laptop - 1.44M      IFB Microwave Oven - 259
+
 
 • Identify profitable V/s Net Sales After Promotional Discount.
 
@@ -231,4 +240,3 @@ Your Name
 •	GitHub: https://github.com/yourusername
 •	Email: yourmail@gmail.com
 
-  
