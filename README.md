@@ -98,6 +98,21 @@ ________________________________________
 
 •	Created calculated columns and measures
 
+        MEASURES 
+
+        1. Sum of Net Sales = CALCULATE(SUM('Fact Table'[Net Sales   ]), ALL('Date Table 1'), USERELATIONSHIP('Date Table 2'[Date], 'Fact Table'[Date (dd/mm/yyyy)]))
+
+        2. Total Profit = CALCULATE(SUM('Fact Table'[Profit]), ALL('Date Table 1'), USERELATIONSHIP('Date Table 2'[Date], 'Fact Table'[Date (dd/mm/yyyy)]))
+
+        3. Total Quantity Sold = CALCULATE(SUM('Fact Table'[Units Sold]), ALL('Date Table 1'), USERELATIONSHIP('Date Table 2'[Date], 'Fact Table'[Date (dd/mm/yyyy)]))
+
+
+        CALCULATED COLUMNS 
+
+        1. Date Table 1 = CALENDARAUTO()
+
+        2. Date Table 2 = CALENDARAUTO() 
+
 •	Standardized categorical variables
 
 3️⃣ KPI Development
@@ -164,12 +179,31 @@ ________________________________________
 
 • Identify profitable V/s Net Sales After Promotional Discount.
 
-• Identity Total number Of Orders.
+        As the Sales is Increasing Profit is Also Increasing So, There is a Direct  Correlationship Between the Two Numerical Quantity that is Profit and Net Sales.
 
-• Identioty Sales Trends By periods
+• Identify Total number Of Orders.
+
+Image : ![Image3](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Total%20number%20of%20Insights%20Order%20.png)
+
+• Identify Sales Trends By periods
+
+Image : ![Image4](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Sales%20Trends%20By%20Periods%20.png)
 
 • Comparision of Total Sales, Profit, Quantity Sold between Two Dates Selected By the Users.
 
+Image: ![Image2](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Sales%20Between%20Two%20Periods%20.png)
+
+• Sales By Different City 
+
+Image: ![Image1](https://github.com/ROHIT19K/ElectroHub-Sales-Analysis-Power-BI-DashBoard/blob/main/Total%20number%20of%20Insights%20Order%20.png)
+
+• Average Discount By Promotion Categories 
+
+      1. Weekend Flash Sales - 23k
+      2. Clearance Sale - 18k 
+      3. Summer Sale -  7k
+      4. New Year Special - 3k
+      5. Festive Diwali -  0k
 
 ________________________________________
 ## 🚀 Future Enhancements
